@@ -950,3 +950,13 @@ groups:
       - ihor.dvoretskyi@gmail.com
       - jdumars@gmail.com
       - jorge@heptio.com
+
+- email-id: releasenotes@kubernetes.io
+  name: releasenotes
+  description: |-
+    ACL for Release Notes WebSite Assets
+  settings:
+    ReconcileMembers: "true"
+  members:
+    - saschagrunert@gmail.com
+    - chris.carty@gmail.com

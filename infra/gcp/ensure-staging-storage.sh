@@ -64,6 +64,7 @@ STAGING_PROJECTS=(
     provider-azure
     publishing-bot
     release-test
+    release-notes
     service-apis
     txtdirect
 )
